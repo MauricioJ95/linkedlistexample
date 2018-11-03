@@ -1,0 +1,7 @@
+C:\git\examples\linkedlistexample\linkedlistexample\bin\Debug\linkedlistexample.exe.config
+C:\git\examples\linkedlistexample\linkedlistexample\bin\Debug\linkedlistexample.exe
+C:\git\examples\linkedlistexample\linkedlistexample\bin\Debug\linkedlistexample.pdb
+C:\git\examples\linkedlistexample\linkedlistexample\obj\Debug\linkedlistexample.csprojAssemblyReference.cache
+C:\git\examples\linkedlistexample\linkedlistexample\obj\Debug\linkedlistexample.csproj.CoreCompileInputs.cache
+C:\git\examples\linkedlistexample\linkedlistexample\obj\Debug\linkedlistexample.exe
+C:\git\examples\linkedlistexample\linkedlistexample\obj\Debug\linkedlistexample.pdb
